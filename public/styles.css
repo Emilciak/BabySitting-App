@@ -1,0 +1,47 @@
+body{
+    background-color: #ccd5ae;
+    font-family: "Montserrat", sans-serif;
+}
+header{
+    background-color: #B5838D;
+    text-align: center;
+}
+
+.nav {
+	background-color: #e9edc9;
+	font-size: 20px;
+}
+.nav-link{
+	color: #d4a373;
+	font-weight:bold;
+}
+
+.panda {
+	height: 300px;
+	
+}
+.hero{
+	background-color: #ccd5ae;
+}
+
+h2{
+	color:#606c38;
+}
+
+td, th, tr{
+	border: 1px solid #606c38;
+}
+
+.dodanie a{
+	text-decoration:none;
+	color: #6b705c;
+}
+i{
+	padding: 10px;
+	color:#d4a373;
+}
+.table a{
+	text-decoration:none;
+	color: #d4a373;
+		font-weight:bold;
+}
